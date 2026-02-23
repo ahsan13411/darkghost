@@ -13,7 +13,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚══════╝ ╚═════╝ ╚══════╝
 </pre>
 
-### [ AH4 TC | DARK GHOST v1.6 ]
+### [ AH4 TC | DARK GHOST v1.2 ]
 
 **"Our democracy has been hacked. Our privacy has been compromised. The system is broken. We are here to show you how."**
 
@@ -43,8 +43,8 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/ahsan13411/dark-ghost.git
-cd "balck tracker"
+git clone https://github.com/ahsan13411/darkghost.git
+cd "darkghost"
 ```
 
 ### 2. Install Dependencies
@@ -70,3 +70,4 @@ python darkghost.py
   <img src="https://img.shields.io/badge/Made%20with-Python-red?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Secured%20by-AH4%20Team-black?style=for-the-badge" />
 </div>
+
