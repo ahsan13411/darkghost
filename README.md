@@ -39,7 +39,7 @@
 
 ---
 
-## 🛠️ Installation & Usage
+## 🛠️ Installation & Usage (window,linux,termux)
 
 ### 1. Clone the Repository
 ```bash
@@ -70,4 +70,5 @@ python darkghost.py
   <img src="https://img.shields.io/badge/Made%20with-Python-red?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Secured%20by-AH4%20Team-black?style=for-the-badge" />
 </div>
+
 
